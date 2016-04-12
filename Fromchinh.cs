@@ -212,7 +212,7 @@ namespace MainForm
             FForm.BangGiaNuoc BGN = new FForm.BangGiaNuoc();
             TabCreating(this.xtraTabControl1, child19.Caption, BGN);
         }
-
+         
         private void barButtonItem6_ItemClick(object sender, ItemClickEventArgs e)
         {
             FForm.BangGiaTang BGT = new FForm.BangGiaTang();
